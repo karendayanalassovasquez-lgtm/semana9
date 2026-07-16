@@ -1,0 +1,14 @@
+Que las plataformas tecnológicas de una comunidad funcionen de manera estable y segura en un servidor no es solo un asunto técnico; es la base para que esa comunidad pueda existir, organizarse y confiar en el espacio digital.
+
+Aquí te detallo las razones principales de su importancia: Garantiza la continuidad y la disponibilidad (Estabilidad)
+Las comunidades dependen de la comunicación en tiempo real o del acceso constante a la información.
+
+Si el servidor es inestable y la plataforma se "cae" constantemente, los miembros no pueden coordinar actividades, responder a emergencias o acceder a recursos pedagógicos o de trabajo.
+
+La estabilidad asegura que la herramienta esté ahí cuando se necesita, sin importar cuántos usuarios se conecten al mismo tiempo.Protege la privacidad y los datos de los miembros (Seguridad)
+En los entornos comunitarios se suele compartir información valiosa: nombres, correos electrónicos, números de contacto, registros de asistencia o material de estudio propio.
+
+Un servidor seguro evita filtraciones de datos o accesos no autorizados por parte de terceros (hackers o atacantes).
+
+Si los datos sensibles quedan expuestos, se rompe la privacidad y la integridad de los miembros de la comunidad. Construye y mantiene la confianza
+La confianza es el activo más importante de cualquier colectivo. Si los usuarios notan que la plataforma pierde su información, no envía las notificaciones a tiempo o los expone a virus y spam, dejarán de usarla. Un entorno estable y seguro hace que los miembros se sientan respaldados y dispuestos a participar activamente.
